@@ -2,3 +2,4 @@
 
 A small Node.js project from [The Odin Project Node.js curriculum](https://www.theodinproject.com/lessons/nodejs-basic-informational-site).  
 Serves simple HTML pages using a custom HTTP server.
+[The Odin Project Introduction to Express](https://www.theodinproject.com/lessons/node-path-nodejs-introduction-to-express)
