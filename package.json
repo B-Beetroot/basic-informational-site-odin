@@ -1,0 +1,24 @@
+{
+  "name": "basic-informational-site-odin",
+  "version": "1.0.0",
+  "description": "A small Node.js project from [The Odin Project Node.js curriculum](https://www.theodinproject.com/lessons/nodejs-basic-informational-site).   Serves simple HTML pages using a custom HTTP server.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/B-Beetroot/basic-informational-site-odin.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/B-Beetroot/basic-informational-site-odin/issues"
+  },
+  "homepage": "https://github.com/B-Beetroot/basic-informational-site-odin#readme",
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
